@@ -1,5 +1,5 @@
-# Keys
-key.json
+# private Config Files 
+*.json
 
 # Logs
 logs
