@@ -44,4 +44,6 @@ for x in output:
         "price": str(answer['prices'][x['id']][categorie])[:-1]
     })
 
+result.sort(key = lambda i: i['price'])
+
 print(result)

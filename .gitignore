@@ -1,5 +1,6 @@
 # private Config Files 
 *.json
+token.*
 
 # Logs
 logs
